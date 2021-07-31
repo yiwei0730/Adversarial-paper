@@ -1,6 +1,3 @@
-# Adversarial Robustness for Deep Learning with Trends and Challenges 
-Pin-Yu Chen 2020 Jan 13rd
-###### tags: `adversarial example` `robustness` `Deep learning`
 ---
 title: Adversarial Robustness for Deep Learning with Trends and Challenges 
 date: 2020-01-13 13:30:00
@@ -13,6 +10,9 @@ tags:
 - note
 ---
 
+# Adversarial Robustness for Deep Learning with Trends and Challenges 
+Pin-Yu Chen 2020 Jan 13rd
+###### tags: `adversarial example` `robustness` `Deep learning`
 ```
 This is a note for a speech in sinica
 ```
