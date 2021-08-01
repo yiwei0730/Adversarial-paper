@@ -5,6 +5,7 @@ comments: true
 author: Yi-Wei
 categories:
 - meeting
+- read note
 tags:
 - Adversarial
 - note
