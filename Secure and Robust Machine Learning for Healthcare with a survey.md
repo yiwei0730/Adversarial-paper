@@ -1,3 +1,15 @@
+---
+title: Adversarial Robustness for Deep Learning with Trends and Challenges 
+date: 2020-02-21 19:25:00
+comments: true
+categories:
+- read note
+tags:
+- Adversarial
+- note
+---
+
+
 # Secure and Robust Machine Learning for Healthcare: A Survey
 ###### tags: `adversarial example` `robustness` `Deep learning`
 
@@ -16,7 +28,7 @@ Fig. 1: The illustration of major phases for development of machine learning (ML
 Speciﬁc contributions of this paper
 1) We present an overview of different applications of ML/DL models in healthcare.
 2) We formulate the ML pipeline for predictive healthcare and identify various sources of vulnerabilities at each stage.
-3) We highlight various conventional security and privacyrelated challenges as well as ones that arise with the adoption of ML/DL models.
+3) We highlight various conventional security and privacy  related challenges as well as ones that arise with the adoption of ML/DL models.
 4) We present potential solutions for the robust application of ML/DL techniques for healthcare applications.
 5) Finally, we highlight various open research issues that require further investigation.
 
